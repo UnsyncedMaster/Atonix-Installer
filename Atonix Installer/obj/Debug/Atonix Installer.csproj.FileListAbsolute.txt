@@ -1,0 +1,22 @@
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\bin\Debug\Atonix Installer.exe.config
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\bin\Debug\Atonix Installer.exe
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\bin\Debug\Atonix Installer.pdb
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\obj\Debug\Atonix Installer.csproj.AssemblyReference.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\obj\Debug\Atonix Installer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\obj\Debug\Atonix_Installer.Main.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\obj\Debug\Atonix_Installer.Properties.Resources.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\obj\Debug\Atonix Installer.csproj.GenerateResource.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\obj\Debug\Atonix Installer.csproj.CoreCompileInputs.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\obj\Debug\Atonix Installer.csproj.CopyComplete
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\obj\Debug\Atonix Installer.exe
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\obj\Debug\Atonix Installer.pdb
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\obj\Debug\Atonix_Installer.FInishWindow.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\obj\Debug\Atonix_Installer.InstallWindow.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\obj\Debug\Atonix_Installer.PathWindow.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\bin\Debug\System.Buffers.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\bin\Debug\System.Memory.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\obj\Debug\Atonix Installer.csproj.Fody.CopyLocal.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix Installer SRC\Atonix Installer\Atonix Installer\obj\Debug\Atonix Installer.csproj.Fody.RuntimeCopyLocal.cache
